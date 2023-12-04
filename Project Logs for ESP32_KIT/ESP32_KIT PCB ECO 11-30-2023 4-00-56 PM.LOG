@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=+3V3 Pin=D400-1
+Added Component: Designator=D400(FAIR-SOD-323_V)
+Add component (AddParameter): Name = "Capacitance"; Value = "-323f"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://www.fairchildsemi.com/datasheets/1N/1N4148WS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 1.2, 03/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "1V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Surge Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Small Outline Diode Flat Lead, Body 1.7 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Inverse Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Reverse Current"; Value = "5uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recovery Time"; Value = "4ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Added Component: Designator=D401(FAIR-SOD-323_V)
+Add component (AddParameter): Name = "Capacitance"; Value = "-323f"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://www.fairchildsemi.com/datasheets/1N/1N4148WS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 1.2, 03/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "1V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Surge Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Small Outline Diode Flat Lead, Body 1.7 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Inverse Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Reverse Current"; Value = "5uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recovery Time"; Value = "4ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=D400-2
+Added Pin To Net: NetName=+3V3 Pin=D401-2
+Added Pin To Net: NetName=NetD400_1 Pin=D400-1
+Added Pin To Net: NetName=NetD400_1 Pin=K400-5
+Added Pin To Net: NetName=NetD400_1 Pin=Q400-3
+Added Net: Name=NetD400_1
+Added Pin To Net: NetName=NetD401_1 Pin=D401-1
+Added Pin To Net: NetName=NetD401_1 Pin=K401-5
+Added Pin To Net: NetName=NetD401_1 Pin=Q401-3
+Added Net: Name=NetD401_1
+Added Member To Class: ClassName=5_STM32KIT_Peripheral Member=Component D401 1N4148WS

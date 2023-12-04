@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=2_STM32KIT_UART.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=2_STM32KIT_UART.SchDoc|FileName=3_STM32KIT_Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=2_STM32KIT_UART.SchDoc|FileName=4_STM32KIT_MCU.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=2_STM32KIT_UART.SchDoc|FileName=5_STM32KIT_Peripheral.SchDoc|SheetNumber=4
